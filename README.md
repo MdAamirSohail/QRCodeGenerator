@@ -25,6 +25,7 @@ Made using help of [Goqr Api](https://goqr.me/api/) .
 ```
 https://github.com/MdAamirSohail/QRCodeGenerator.git
 ```
+Run Directly - [QRCodeGenerator](https://mdaamirsohail.github.io/QRCodeGenerator/)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
