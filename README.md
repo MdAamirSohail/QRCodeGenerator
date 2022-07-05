@@ -1,11 +1,6 @@
 # QRCodeGenerator
 
-A Simple QR Code Generator using Basic Html, CSS, Javascript & QR Code Generator API.
-
-## About The Project
-
-A Simple Web Application which will generate a QR Code of instance nametypes in text box. <br>
-Made using help of [Goqr Api](https://goqr.me/api/) .
+A Simple QR Code Generator using Basic Html, CSS, Javascript & QR Code Generator [Goqr Api](https://goqr.me/api/).
 
 ## Tech Stacks Used
 
@@ -16,7 +11,6 @@ Made using help of [Goqr Api](https://goqr.me/api/) .
 ## API Used
 
 - Visit Website: [Goqr Api](https://goqr.me/api/) .
-
 
 ## How to use Project
 
